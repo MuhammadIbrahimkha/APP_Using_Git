@@ -7,3 +7,4 @@ Console.WriteLine("After commiting all the changes let's try this one...");
 Console.WriteLine("Really happy to work with...");
 Console.WriteLine("One more modification");
 Console.WriteLine("Hmmm! Changes... from Visual studio to Github Repository");
+Console.WriteLine("Changes from Github Repository to Visual Studio");
